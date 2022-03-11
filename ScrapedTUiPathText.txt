@@ -1,0 +1,305 @@
+2022 TRENDS
+Automation
+Accelerates
+Automation is expanding faster
+and further than ever—see how
+you can take advantage.w
+
+Automation’s momentum only
+keeps growing and growing.
+Make sure you’re up to speed.
+Automation is progressing like never before—in terms both of the technology itself and in the ways
+it’s delivering new growth and profit.
+To take a look at what’s ahead, we’ve gathered insights from analysts, partners, customers, and
+our own marketing, sales, product, partnership, and customer success teams—honing all this info
+down to 10 key trends in automation. Together, they present a picture of the years to come, the many
+possibilities automation presents, and the steps you need to take to take advantage.
+
+2022 Trends: Automation Accelerates  |   2w
+
+Where automation
+is heading—in 2022
+and beyond.
+It’s coming into its own as essential enterprise technology—with robotic process
+automation (RPA) at the center.
+It’s expanding its role in the stack—and in the way people work.
+It’s winning over new champions in the C-suite.
+It’s introducing innovations that will transform the technology and the industry.
+It’s laying the foundation of a booming ecosystem.
+
+Across every dimension—by every measurement—automation is accelerating.
+
+2022 Trends: Automation Accelerates  |   3TREND #1
+CIOs take the reins
+on automation.
+With automation now the top tech trend, CIOs will step up to raise its OUR ADVICE TO CIOs
+technology, strategy, and governance to the enterprise level. Get started on your enterprise automation
+More and more, automation has become a top priority in the C-suite and the boardroom. But enterprise strategy now.
+leaders want to automate the right way, ensuring that automation investments fully deliver on their
+potential to drive digital transformation, agility, efficiency, and revenue.  Automation will likely be a critical item on your
+To that end, many boards are now handing down “automation mandates” to properly plan 2022 agenda, so get ahead of the game. Some
+the organization’s automation strategy—and CIOs are the ones being asked to take the lead in of your key tasks:
+determining how the technology will be introduced across the enterprise. ■ Choosing an automation platform that
+To develop (and execute) this strategy, CIOs will first need to wrap their heads around the many provides enterprise-grade scale, governance,
+disparate, disconnected automation initiatives that may already exist within the organization— and security
+and how they can best be centralized and secured.
+■ Identifying and prioritizing the biggest
+56% of large enterprises currently have  15%  opportunities automation can deliver to
+your organization
+4 or more simultaneous automation initiatives. have 10 or more.1 ■ Building out automation skills and
+capabilities across the enterprise
+With these new mandates, the role of the CIO has expanded: beyond driving efficiencies, CIOs will now ■ Connecting islands of automation within
+be expected to drive revenue—from sales and marketing, to online ordering and customer call centers. your organization
+
+2022 Trends: Automation Accelerates  |   4TREND #2
+In the automation platform
+convergence battle, RPA wins.
+OUR ADVICE TO CIOs & AUTOMATION COEs ‘RPA-plus’ platforms will push to become the go-to in automation, integrating
+Choose a foundation that will best serve capabilities from adjacent business process technologies.
+your needs. RPA. BPA. iPaaS. LCAP. AI. There are plenty of types of automation out there. Each has something
+different to offer—and each would like to be the primary automation platform around which all others
+Deciding on a core automation technology is are centered.
+critical, but that doesn’t make it easy. As you The battle is fiercer than ever, but when the dust clears, we predict that robot process automation
+start to make your decision: (RPA) will come out on top—and not just because it's what we do at UiPath! According to Gartner, RPA
+■ Map out all the automation technologies was the fastest-growing enterprise software in both 2019 and 2020, with revenues increasing 38.9%
+currently used in your enterprise—both between those years.2
+where and why. And it’s no wonder why. Modern end-to-end RPA platforms offer crucial features like integrated
+management and execution, enterprise-grade governance, low-code/no-code build environments, and
+■ Devise a strategy for reducing fragmentation support for rapid scaling. Plus, RPA has led the way in UI automation—a critical technology most other
+across initiatives, centralizing around a  platforms are still playing catch-up on.
+core platform.
+78% of surveyed organizations have chosen RPA
+■ Make sure your chosen platform can meet  platforms for their intelligent automation efforts.3
+as many of your automation initiatives
+as possible.
+This isn’t to say that RPA can do everything every other platform can. But give it time. “RPA-plus” platforms
+are already coming into play, rapidly introducing the capabilities of adjacent platforms and making it
+easier for organizations to integrate existing technologies. With more use cases and more tools and
+capabilities for developers, organizations can increase automation's impact across their enterprise.
+This should only cement RPA’s position as the core automation technology moving forward.
+
+2022 Trends: Automation Accelerates  |   5TREND #3
+Automation moves to the top of
+the enterprise stack and powers
+a new engagement layer.
+Robots, not people, will weave together applications, systems, and software— OUR ADVICE TO CIOs & CTOs
+allowing us to totally reimagine processes in the process.
+Today, the average large enterprise uses more than 170 different applications. These applications may Think automations, not applications.
+work beautifully on their own—but they don’t necessarily play well with others. As a result, employees The automation layer is a wholly new animal.
+spend far too much of their time bridging the gap: moving information between applications, for What do you need to do to bring it to life?
+instance, and ensuring the consistency of that data.
+In 2022 and beyond, we’ll see leading-edge enterprises address this problem by adding an ■ Build out robust, reusable automation
+automation layer to the top of their application stack. This new automation layer will contain object libraries for frequently used actions
+connections and reusable components that can link applications and systems of records— in your core systems of record.
+along with key governance, maintenance, and developer capabilities. ■ Establish a new step in the process
+By reusing components from this layer, teams can build, test, and execute automations faster—while development lifecycle to determine whether
+ensuring fast connections, reliable communication, and dependable data consistency across systems. a process can be driven by an automation
+This not only frees employees from boring, burdensome work—it also frees the organization to rather than an application.
+establish new processes built on a foundation of automation.
+■ Back your automation layer with technology
+that allows for centralized governance,
+By reusing automation Complete management, and testing.
+components across applications Cut business application test automations
+and QA/testing teams, a UiPath deployment by 90% 3-5x faster
+customer was able to:
+
+2022 Trends: Automation Accelerates  |   6TREND #4
+Just-in-time, task-based
+workflows emerge as
+alternatives to business-
+application-based workflows.
+The first virtual assembly lines will deliver “work-as-needed” to  OUR ADVICE TO CIOs & AUTOMATION COEs
+employees’ desktops.
+Today, work happens in applications. A whole bunch of separate applications. A user might pull data Get comfortable with task-based workflows.
+from Salesforce, dump it into Excel, then process it in Workday. It’s a workflow, all right, but not a very It’s not time to totally abandon application-
+efficient one. Now, though, we’re beginning to see the rise of an entirely new type of work. Instead of based workflows, but you should start thinking
+employees going to all those applications, tasks now come to the employees—a virtual assembly line about what task-focused work will look like.
+of just-in-time tasks, brought to you by robots.
+By removing apps from the equation, work is less complex and fragmented, so less time is wasted. ■ Set a goal for piloting at least 5 just-in-time,
+No more opening, closing, and navigating a slew of applications. No more trying to work across task-centric workflows by the end of
+applications—and making sure that that work actually worked. No more struggling to learn new or this year.
+updated applications. Instead, employees have exactly what they need to do the work they need,
+when they need to, all in one place.
+The manufacturing assembly line revolutionized the way physical work was performed and what it
+could produce. We believe that virtual assembly lines could have the same impact on digital work.
+
+By 2024, it’s predicted that
+25% of employee-facing app development will be replaced
+by the codeless development of just-in-time tasks.4
+
+2022 Trends: Automation Accelerates  |   7TREND #5
+Automation Centers of
+Excellence step in to solve
+the AI deployment problem.
+OUR ADVICE TO CIOs, AI & ANALYTICS COEs,  CoEs will help organizations get AI over the hump—driving greater success
+& AUTOMATION COEs rates and better ROI.
+Centers of Excellence—unite! Investments in artificial intelligence (AI) are growing by leaps and bounds. The return on those
+investments? Not so much yet. One major roadblock: actually getting AI models out of labs and into
+To make the most of AI, you need to make the the workplace.
+most of automation. That’s why it’s critical for
+automation and AI/analytics CoEs to put their 1/5
+heads together on how best to deploy the two 90%
+■ To encourage collaboration, identify 64% of IT and AI practitioners say of their AI models
+technologies in tandem.  it takes at least a month to have
+implement a new AI model.5 going unused.5
+opportunities where you have powerful, but
+undeployed, AI models that could deliver big Now, though, more and more organizations are realizing automation can help them cross the last
+business impact—in customer service, the mile with AI. Ready-made workflows can easily bring models into front-line decision-making and
+supply chain, wherever. analysis, and new capabilities like drag-and-drop model insertion and continuous automated model
+improvement can make AI deployment simpler than ever.
+■ Give automation CoEs the freedom to  As automation’s AI track record gets better and better, it's encouraging AI and analytics groups to
+use modern, advanced automation team up with automation CoEs to get AI in employees’ hands faster. In fact, in some enterprises,
+platforms to rapidly deploy and manage  automation CoEs are taking over AI deployment completely.
+AI-enriched workflows.
+
+2022 Trends: Automation Accelerates  |   8TREND #6
+Semantic automation
+revolutionizes RPA.
+The industry will make major strides in bringing “AI inside” to make OUR ADVICE TO CEOs, CIOs, &
+automation faster, easier, and more resilient.  AUTOMATION COEs
+Today, even with drag-and-drop, low-code platforms, building a complex automation can be a drawn- Set yourself up to be an early adopter.
+out process. That’s because developers have to tell the robot every single step to take and every rule
+to follow. “Move this here, open this, extract that…” It’s a lot. Semantic automation is still an emerging
+But with semantic automation, the robot will already know the rules and the context, the patterns  technology, but it’s one you should keep on
+and the relationships. “Oh, I’ve seen this process, so I know how to complete it.” “Hmm, I need this your radar, so you can get on board early
+specific info—OK, I know where to find it.” With this sort of contextual understanding, developers— when the time comes.
+or even business users—will be able to ask a robot to complete a task and let it figure out how. ■ Closely monitor advances and
+improvements in the technology—what’s
+Pattern-based models are  possible and who’s leading the charge.
+2x as effective  ■ Check out early use cases, like UiPath Forms
+at finding credit card fraud
+anomalies as rules-based models.6 AI, which can process forms and documents
+that have similar formats, even if the robot
+has never seen them before.
+We believe that semantic automation will be a quantum leap forward in the industry, freeing up more
+time and putting automation in more people’s hands. At UiPath, we’ve already surmounted some of
+the first hurdles in realizing the technology, with advances in AI, document processing, and computer
+vision that will help form the foundation of semantic automation.
+
+2022 Trends: Automation Accelerates  |   9TREND #7
+The desire for flexibility in
+delivery options spurs cloud-
+based architectural innovation.
+Containerization and cloud-native will become the new standard for the OUR ADVICE TO CTOs & CIOs
+delivery of both SaaS and non-SaaS automation.
+Part of embracing automation is deciding how you’ll actually get your hands on the technology.  Keep tracking that delivery.
+On-premises, cloud, hybrid—today’s market demands flexibility; no one wants to be locked into  New delivery innovations can reduce
+a particular delivery model. costs—and make it easier to keep your
+So, automation providers are increasingly embracing cloud-native architectures that leverage platform up-to-date and operating at
+containerization and microservices to deliver various platform capabilities however and wherever peak performance. So, make sure you
+the customer wants them. Customers get the automation they want today—and can easily swap keep up with the industry advances!
+approaches tomorrow—without having to change procedures or reeducate employees. And with  ■ Find a platform that will continue to
+these architectures, even on-premises customers now have access to cloud-like flexibility, timeliness, innovate across every delivery method.
+and easy updates. You might be using SaaS today, but new
+In 2022, expect additional delivery innovations focused on making it even easier to install, manage, requirements could bring you back on-
+and upgrade on-premises automation platforms—and reducing total cost of ownership (TCO) for every premises—and you want tech with the
+delivery method. flexibility to do both well.
+
+2022 Trends: Automation Accelerates  |   10TREND #8
+Automation finds a new
+C-suite champion: the Chief
+Sustainability Officer.
+OUR ADVICE TO CSOs & CIOs CSOs will team up with CIOs to use automation for the greater good.
+Team up to tackle sustainability. Sustainability has never been a greater concern—which is giving it a much greater role in the workplace.
+We’re now experiencing the rise of the Chief Sustainability Officer, who works across the organization
+Technology like automation can help you do to improve the company’s environmental impact. And as these CSOs endeavor to achieve their crucial
+the greatest good smarter, faster, and more goals, they’re discovering an ally in the CIO—also increasingly tasked with sustainability initiatives—and
+effectively. But that means getting a real a useful tool in automation.
+handle on that technology and its potential.
+
+■ CSOs: Develop a close partnership with your Today, there are over 95 CSOs in 24% of CIOs say they're responsible for
+CIO and IT heads; they’ll be critical in helping the Fortune 500.7 implementing sustainability programs.8
+you identify and implement the
+right solutions.
+■ CIOs: Stay informed! Make sure you’re Automation can support mission-critical fact-gathering, monitoring, and measurement—making
+aware of emerging opportunities and best them simpler, faster, and more accurate—so initiatives start (and progress) the right way. But
+practices for using technology to address automation can also have a more direct impact: for instance, automating data centers to power
+social and environmental issues. down during periods of inactivity can significantly reduce electricity use. (We ourselves cut cloud
+compute usage by 65%!9) Or it can create efficiencies that reduce paper consumption. Or uncover
+new opportunities to reduce environmental impact across the supply chain.
+
+2022 Trends: Automation Accelerates  |   11TREND #9
+HR teams prepare for their
+next big challenge: managing a
+human-digital workforce.
+Chief Human Resource Officers (CHROs) will start planning for a workplace OUR ADVICE TO CHROs & HR TEAMS
+where people and robots work as one.  Start planning.
+Within the next 5 years, hybrid human-digital workforces will be the new normal. People will work (Or at least start planning to plan.)
+side-by-side with virtual robotic assistants—sharing tasks, passing work back and forth, collaborating.
+But getting there isn’t simply a matter of dropping in the technology. It’s going to take real change The shift to human-digital work is happening—
+management—changing the hearts, minds, skills, behavior, and even roles of employees. get out in front of it by envisioning and preparing
+Forward-thinking HR executives have already recognized this looming challenge and have begun  for it right now.
+to put together multi-year plans for the transition: Which jobs will be sunsetting? What new jobs will ■ Map out which jobs are likely to change,
+take their place? How can they best train employees to work with the new technology? What skills  emerge, and phase out.
+will teams need to learn or improve or replace? Who should they hire, and who should they redeploy?
+Business leaders now predict they’ll have to retrain one-third of their workforce in the face of the ■ Identify and define the skills needed for
+changes automation will bring.3 HR will be the ones driving this transformation—if your HR leaders tomorrow, and the means you’ll need to
+haven’t started planning for it already, they likely will soon. develop them across your organization.
+■ Develop a robust change management
+Up to  …only to be replaced by     plan to smooth automation adoption and
+85M lower-value jobs will higher-value maximize its impact.
+be lost by 2025… 97M jobs.10
+
+2022 Trends: Automation Accelerates  |   12TREND #10
+Growth explodes across the
+automation ecosystem.
+It’s not just automation that’s booming—it’s all the technologies and work OUR ADVICE TO WOULD-BE
+around it. ECOSYSTEM CONTRIBUTORS
+The automation market is larger and growing faster than you might realize. And that’s because it’s Stake your claim boldly and early.
+not just about automation platform providers alone—it’s about an entire ecosystem of all the other There’s no better time to enter the automation
+elements that make automation possible. Those delivering the hardware and software. IT integration ecosystem—automation is on the rise, and
+services. Custom app developers. Consultants to help businesses get more out of the technology. businesses are ready to make the leap, but
+And, of course, with a bigger market comes bigger opportunities. Take UiPath’s ecosystem. In 2022, they need support on their journey. How can
+IDC predicts that our ecosystem will increase by $2.3B—46% growth over where we were in 2021.  you help?
+By 2025, they predict it will value at $16.4B—that’s a total cumulative opportunity of $51.2B.11
+With opportunities like these, it’s no wonder everyone’s trying to get in on the action. Accenture ■ Be prepared for a lot of competition and a
+recently announced it will add 10,000 automation specialists by 2023. Consulting firm PwC recently lot of noise in the market. Make sure you
+integrated UiPath into PwC Perform, their proprietary operational improvement methodology and hone your products and services to address
+management system, so it can quickly and easily deliver automation to clients. And our own UiPath real needs—then carefully target your
+partner network now tops 4,700 (and growing). The automation ecosystem is primed and full of audience with clear messaging about what it
+potential—all you have to do is jump on board. is you have to offer.
+The biggest revenue opportunities in the automation ecosystem?11 ■ Build strong relationships with automation
+platforms, so that you’re the one they want
+Business Services Add-on Software IT Services to work with and recommend.
+to support organizational including apps for including systems
+change, functional training,  specific departments and integration, custom app
+and strategy development processes; security software development, training,
+and operating systems; and and end-user support
+app development tools
+2022 Trends: Automation Accelerates  |   13ABOUT UIPATH
+
+UiPath (NYSE: PATH) has a vision to deliver the fully automated enterprise™, one where companies use
+automation to unlock their greatest potential. UiPath offers an end-to-end platform for automation,
+combining the leading robotic process automation (RPA) solution with a full suite of capabilities that enable
+every organization to rapidly scale digital business operations.
+
+For more information, visit uipath.com
+
+A leader in the 2021 Gartner®
+Magic Quadrant™ for RPA
+Get the report
+A Forrester Wave Leader for
+Robotic Process Automation,
+Q1 2021
+Get the report
+A Leader in the IDC
+MarketScape for Worldwide
+Robotic Process Automation
+Software 2021-2022
+Get the report
+Everest Group Robotic
+Process Automation Products
+PEAK Matrix®  2021
+Get the report
+
+© UiPath, Inc. All rights reserved.
+Gartner does not endorse any vendor, product or service depicted in its research publications, and does not advise technology users to select only those vendors with the highest ratings
+or other designation. Gartner research publications consist of the opinions of Gartner's research organization and should not be construed as statements of fact. Gartner disclaims all
+warranties, express or implied, with respect to this research, including any warranties of merchantability or fitness for a particular purpose. Gartner, Magic Quadrant for Robotic Process
+Automation, by Saikat Ray, Arthur Villa, Naved Rashid, Paul Vincent, Keith Guttridge, Melanie Alexander, July 2021.
+[standard US copyright line]  A Leader in the Inaugural IDC MarketScape: Worldwide RPA Software 2021-2022 2022 Trends: Automation Accelerates  |   141. Gartner, Top Strategic Technology Trends for 2022, 2021. 2. Gartner, Market Share Analysis: Robotic Process Automation, Worldwide, 2020, May 2021. 3. Deloitte, Automation with intelligence: Pursuing organisation-wide reimagination, 2020.
+4. IDC, FutureScape: Worldwide Developer and DevOps 2022 Predictions, October 2021. 5. RunAI, State of Infrastructure Survey, 2021. 6. Brighterion, How do AI models compare to rules-based decisioning?, September 2020. 7. Weinreb Group,
+The Chief Sustainability Officer 10 Years Later: The rise of ESG in the C-Suite, March 2021. 8. Gartner, The Role of the CIO and Technology in the Enterprise Sustainability and ESG Endeavor, 2021. 9. UiPath, It’s Time to Automate Your IT Ecosystem,
+2021. 10. World Economic Forum, How intelligent automation can power sustainable economies, September 2021. 11. IDC, The Economic Impact of UiPath Robotic Process Automation, September 2021.
+
+© UiPath, Inc. 2021
